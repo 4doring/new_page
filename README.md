@@ -3,7 +3,7 @@
 ### I like to do a coding so much!
 ###  And I hope the coding will love me too, someday!
 
-![](img/image.jpg)
+![](https://github.com/4doring/new_page/blob/main/img/image.JPG?raw=true)
 
 ### I'm trying to find answers for next questions:
 * _What is the meaning of life?_
